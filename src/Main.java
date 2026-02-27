@@ -6,7 +6,7 @@ public class Main{
         double num1;
         double num2;
         char operator;
-        double result;
+        double result; // Funny comment here
         
         num1 = Double.parseDouble(JOptionPane.showInputDialog("Enter the first number: "));
         num2 = Double.parseDouble(JOptionPane.showInputDialog("Enter the second number: "));
