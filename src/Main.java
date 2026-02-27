@@ -5,7 +5,7 @@ public class Main{
 
         double num1;
         double num2;
-        char operator;
+        char operator; // Funnier comment here
         double result; // Funny comment here
         
         num1 = Double.parseDouble(JOptionPane.showInputDialog("Enter the first number: "));
