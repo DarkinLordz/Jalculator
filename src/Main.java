@@ -3,7 +3,7 @@ import javax.swing.JOptionPane;
 public class Main{
     public static void main(String [] args){
 
-        double num1;
+        double num1; // Lmao comment here
         double num2; // Crazy funny comment here
         char operator; // Funnier comment here
         double result; // Funny comment here
