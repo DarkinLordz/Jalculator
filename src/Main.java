@@ -4,7 +4,7 @@ public class Main{
     public static void main(String [] args){
 
         double num1;
-        double num2;
+        double num2; // Crazy funny comment here
         char operator; // Funnier comment here
         double result; // Funny comment here
         
